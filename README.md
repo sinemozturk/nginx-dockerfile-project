@@ -38,7 +38,7 @@ COPY . /usr/share/nginx/html
 </html>
 
 ```
-- Use tje picture of your choise and make sure it is in the same app folder 
+- Use the picture of your choise and make sure it is in the same app folder 
 
 ![](MY-FRIENDS.gif)
 
